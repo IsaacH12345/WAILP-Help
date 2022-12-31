@@ -51,7 +51,7 @@ function nextItem(index) {
   focusableElements[current].focus()
 }
 
-clickItem(index) {
+clickItem(index)
   focusableElements[index].click();
 }
 
